@@ -10,3 +10,6 @@ I think its more efficient for the other vcs to save more files in one commit.
 Git log shows all the commits made in the files history, git diff allows you to compare files and see the differences/revisions made between them
 	How might using version control make you more confident to make changes that could break something?
 Version control would allow me to go back through my commits and fix the mistake made that broke everything, making all mistakes fixable.
+
+	What do I want to try using Git for?
+I don't really know.
