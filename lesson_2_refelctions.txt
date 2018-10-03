@@ -1,0 +1,14 @@
+4: What happens when you intialize a repository? Why do you need to do it?
+
+You orginally created the new repository by the command git init. After
+initializing a repostitory you should examine it by the command git status. This
+allows you to see no commits have been made and the files the repository hasn't
+begun tracking.
+
+7: How is the stafing area different from the working directory and the
+repsitory?What value do you think this offers?
+
+Staging area is different from the working directory and the repository, because
+it holds changes you've made to documents without yet making a committs, you can
+also group documents together and commit them as one. This may be valued because
+it is more efficient and allows for mistakes to be easily fixed.
